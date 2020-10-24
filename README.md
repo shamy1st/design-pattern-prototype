@@ -1,5 +1,5 @@
 # Prototype Design Pattern (Java)
-**Prototype Design**
+**Prototype**
 ![](https://github.com/shamy1st/design-pattern-prototype/blob/main/uml.png)
 ### Problem:
 
